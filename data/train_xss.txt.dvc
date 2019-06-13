@@ -1,0 +1,8 @@
+md5: e2a4063f9d9d201065dac8b49315a49d
+wdir: .
+outs:
+- md5: a2fbfe48bbc1f50bee8bd11af81924bf
+  path: train_xss.txt
+  cache: true
+  metric: false
+  persist: false
