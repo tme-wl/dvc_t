@@ -1,0 +1,12 @@
+md5: 6271892348b630e85c4f9724d64fee1b
+cmd: python3 clear_data.py
+wdir: .
+deps:
+- md5: 42faf12ff15c30efcc3b7024daac0015
+  path: clear_data.py
+outs:
+- md5: b29bde4c3b900f8d4df5dbd8dc4e9e6e.dir
+  path: data/clear_data
+  cache: true
+  metric: false
+  persist: false
