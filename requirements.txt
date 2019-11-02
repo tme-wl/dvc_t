@@ -3,7 +3,7 @@ grpcio==1.14.1
 grpcio-tools==1.19.0
 kafka-python==1.4.4
 Keras==2.2.4
-nltk==3.4
+nltk==3.4.5
 numpy==1.15.4
 protobuf==3.6.1
 scikit-learn==0.20.2
