@@ -13,4 +13,4 @@ tensorflow==1.12.0
 tensorflow-serving-api==1.12.0
 gunicorn==19.9.0
 Cython==0.29.7
-sanic==18.12.0  
+sanic==20.12.7  
